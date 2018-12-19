@@ -19,12 +19,12 @@ You can configure as Wifi access point or connet to your wifi, and save the conf
 ## Management
   In the main root page you can move each motor steep by steep or move clomplex secuences saves 
   in to arrays of integer one  is id of servo the second has the position to move like this
-  
+  ```
   if (steep == 3) {
     int  iMotor_03[] = {1,  2,   0} ;
     int iPosic_03[] = {86, 93, 180};
     fncDoit_takeaway_do(iMotor_03, iPosic_03);
   }
-
+```
 
 
