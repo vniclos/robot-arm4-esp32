@@ -50,7 +50,7 @@ const char g_HTML_Web_root[] PROGMEM = R"=====(
     </tr>
     
     <tr>
-      <tdPincers</td>
+      <td>Finger</td>
       
       <td><input id="scnMotor3" width="100%" type="range" min="48" max="68" value="0" class="slider reversedRange" ></td>
      <td class="center" ><input id="scnbtnMotor3" type="button"  value="Go" class="btn mini "  onclick="fncGo(3);return false;"></td>

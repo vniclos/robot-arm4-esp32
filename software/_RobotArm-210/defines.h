@@ -3,11 +3,11 @@
 // ================================================================
 // DEFINES
 // ================================================================
-#define WS_STATIC_IP   // WS_STATIC_IP definir para pruebas ip statica
+#define WS_STATIC_IP_NO   // WS_STATIC_IP definir para pruebas ip statica
 #define PIN_LED_INT  2 //LED_BUILTIN
 #define BUILTIN_LED  2  // backward compatibility
-
-#define PIN_BUZER 12
+#define LED  32  // b
+//#define PIN_BUZER 12
 
 // Recommended PWM GPIO pins on the ESP32 include 2,4,12-19,21-23,25-27,32-33
 #define SERVO_COUNT  4
