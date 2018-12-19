@@ -1,10 +1,11 @@
 # robot-arm4-esp32  controled by wifi
 
-![alt text](https://github.com/vniclos/robot-arm4-esp32/blob/master/img/robot-00.jpg "Robot ARM4X builded")
+![alt text](https://github.com/vniclos/robot-arm4-esp32/blob/master/img/robot-00.jpg "Robot ARM4X builded" )
 
 ## Hardware
 
 - 1 ESP32 MCU 7$
+
 - 4 Servo FUTABA M490S
 - 1 DIP
 - 1 Power suply 5v 2a
