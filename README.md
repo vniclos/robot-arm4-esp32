@@ -39,3 +39,10 @@ You can develop your complex movement by write to arrays of integer one  is ID o
 It say move servo 1 to 86º, move servo 2 to 93º and move servo 0 to 180º
 
 
+Read more on the wiki
+
+https://github.com/vniclos/robot-arm4-esp32/wiki/Use
+
+
+Or conctac with me on facebook 
+https://www.facebook.com/vicente.niclos
