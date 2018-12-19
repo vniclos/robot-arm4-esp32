@@ -5,6 +5,7 @@
 ## Hardware
 
 - 1 ESP32 MCU 7$
+<img src="(https://github.com/vniclos/robot-arm4-esp32/blob/master/img/robot-00.jpg." width="200" height="400" />
 - 4 Servo FUTABA M490S
 - 1 DIP
 - 1 Power suply 5v 2a
