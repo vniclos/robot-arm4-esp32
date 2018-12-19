@@ -14,7 +14,9 @@
 - Arduino IDE
 - Libraries
 - ESP32_Servo.h
-- - AutoConnect.h
+- AutoConnect.h
+
+
 This toy robot is build for learn to control by wifi one simple four arm robot, they has a web server
 ### You can set 
 You can configure as Wifi access point or connet to your wifi, and save the configuration in EEPROM, 
