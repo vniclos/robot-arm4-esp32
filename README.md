@@ -10,7 +10,7 @@ Control a toy arm4x by wifi.
 1 Power suply 5v 2a
 1 Litle 
 
-![alt text](https://github.com/vniclos/robot-arm4-esp32/edit/master/img/robot01.jpg "Robot ARM4X builded")
+![alt text](https://github.com/vniclos/robot-arm4-esp32/edit/master/img/robot-00 "Robot ARM4X builded")
 This toy robot is build for learn to control by wifi one simple four arm robot, they has a web server
 ### You can set 
 You can configure as Wifi access point or connet to your wifi, and save the configuration in EEPROM, 
