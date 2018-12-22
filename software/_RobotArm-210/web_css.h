@@ -1,4 +1,4 @@
-// Use web server for download javascripts
+// Use web server for download css styles sheet
 
 #ifndef _WEB_CSS_H
 #define _WEB_CSS_H
