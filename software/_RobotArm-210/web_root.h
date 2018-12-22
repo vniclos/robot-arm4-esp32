@@ -1,5 +1,8 @@
 
- #ifndef _WEB_ROOT_H
+
+// web server manin page root,
+// has user robot interface
+#ifndef _WEB_ROOT_H
 #define _WEB_ROOT_H
 
 const char g_HTML_Web_root[] PROGMEM = R"=====(
