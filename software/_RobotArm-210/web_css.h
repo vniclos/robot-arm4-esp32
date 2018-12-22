@@ -1,4 +1,4 @@
-//javascripts
+// Use web server for download javascripts
 
 #ifndef _WEB_CSS_H
 #define _WEB_CSS_H
