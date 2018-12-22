@@ -1,5 +1,9 @@
 // web server handle manager function 
 
+// manager webserver functions for 
+// control acction when the web server
+// recive command and reply response
+
 #ifndef _WEB_HANDLE_H
 #define _WEB_HANDLE_H
 #include "defines.h"
