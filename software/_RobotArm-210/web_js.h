@@ -1,4 +1,4 @@
-//javascripts
+// use web server for download javascripts function
 
 #ifndef _WEB_JS_H
 #define _WEB_JS_H
@@ -47,7 +47,8 @@ function fnctakeawayopen ()
   
 
 
-
+// function to send to server 
+// command for move servo to slider position
 function fncGo (pId)
 {
   var sMotor="scnMotor"+pId;
@@ -61,6 +62,8 @@ function fncGo (pId)
   fncGetHtml("scnMsgGet",url);
   }
 
+// funtion for recive possition of servos
+// and fill slider 
 function fncGetPosition()
 {
 console.log("fncGetPosition");
@@ -107,6 +110,8 @@ function fncDebug()
  fncGetHtml( "msgDebug","/fncDebug");
   return false;
   }
+// fuctuion ajax for send command to web server
+// and write result on target html object
 function fncGetHtml(pDivTarget, pURL) {
   console.log("pDivTarget="+pDivTarget+"\n pURL= "+pURL);
    var xhttp;
