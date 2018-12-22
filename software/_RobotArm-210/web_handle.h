@@ -1,3 +1,5 @@
+// web server handle manager function 
+
 #ifndef _WEB_HANDLE_H
 #define _WEB_HANDLE_H
 #include "defines.h"
