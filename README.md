@@ -1,4 +1,4 @@
-# robot-arm4-esp32  controled by wifi
+# robot arm esp32  controled by wifi
 
 ![alt text](https://github.com/vniclos/robot-arm4-esp32/blob/master/img/robot-00.jpg "Robot ARM4X builded" )
 
